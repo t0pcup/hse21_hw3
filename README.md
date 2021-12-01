@@ -55,8 +55,6 @@ SRR3414637 | control | 20385570 | 19847291 | 17844858 | 15736978
 
 ### The most expressed genes
 
-<div style="margin = auto;">
-    <img alt="gene_1" src="https://github.com/t0pcup/hse21_hw3/blob/main/pics/gene_1.png" width="33%"></img>
-    <img alt="gene_2" src="https://github.com/t0pcup/hse21_hw3/blob/main/pics/gene_2.png" width="33%"></img>
-    <img alt="gene_3" src="https://github.com/t0pcup/hse21_hw3/blob/main/pics/gene_3.png" width="33%"></img>
-</div>
+<img alt="gene_1" src="https://github.com/t0pcup/hse21_hw3/blob/main/pics/gene_1.png" width="32%"></img>
+<img alt="gene_2" src="https://github.com/t0pcup/hse21_hw3/blob/main/pics/gene_2.png" width="32%"></img>
+<img alt="gene_3" src="https://github.com/t0pcup/hse21_hw3/blob/main/pics/gene_3.png" width="32%"></img>
