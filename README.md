@@ -32,7 +32,7 @@
 
 ![fastqc_status_check_heatmap](https://github.com/t0pcup/hse21_hw3/blob/main/pics/fastqc_status_check_heatmap.png)
 
-## Samples table
+### Samples table
 
 Sample ID | type | total reads | mapped reads | unique mapped reads | matchings
 --- | --- | --- | --- | --- | ---
